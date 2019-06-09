@@ -13,11 +13,11 @@
 ## Introduce Features
 Here is a brief introduction to bot's features.
 ### Users
-//user gif
+![user](https://user-images.githubusercontent.com/30490118/59158251-77d63800-8acc-11e9-9cd3-8a8c09b2da2c.gif)
 ### SuperAdmin
-//superadmin gif
+![superadmin](https://user-images.githubusercontent.com/30490118/59158263-a8b66d00-8acc-11e9-973e-55b27b1192d7.gif)
 ### Admins
-//admin gif
+![admin](https://user-images.githubusercontent.com/30490118/59158287-267a7880-8acd-11e9-99c4-e5e970621e06.gif)
 
 ## Requirements
 * PHP   v7.1
