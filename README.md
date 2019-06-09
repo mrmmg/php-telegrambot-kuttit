@@ -51,9 +51,10 @@ Here is a brief introduction to bot's features.
 | `/admin` | Show SuperAdmin or Admins panel |
 
 ## ToDo List
+- [ ] Add User Link Status
+- [ ] Add URL Delete Option
 - [ ] Add User Keyboard to change language & change user table in database
-- [ ] Add User change language system
-- [ ] Add User Link Status 
+- [ ] Add User change language system 
 - [ ] And more... 
 
 ## Contributing
