@@ -9,6 +9,9 @@
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Todo List](#todo-list)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Introduce Features
 Here is a brief introduction to bot's features.
@@ -51,3 +54,10 @@ Here is a brief introduction to bot's features.
 - [ ] Add User Keyboard to change language & change user table in database
 - [ ] Add User change language system
 - [ ] And more... 
+
+## Contributing
+Pull requests are welcome. You'll probably find lots of improvements to be made.
+
+Open issues for feedback, requesting features, reporting bugs or discussing ideas.
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
