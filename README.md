@@ -5,7 +5,7 @@
 *Contributions and bug reports are welcome.*
 
 ## Table of Contents
-* [Introduce Features](#intoduce features)
+* [Introduce Features](#introduce-features)
 * [Requirements](#requirements)
 * [Setup](#setup)
 * [Usage](#usage)
