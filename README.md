@@ -32,7 +32,7 @@ Here is a brief introduction to bot's features.
 4. Register in [Kutt Website](https://kutt.it) and copy your API key.
 5. In Telegram, Use [User info bot](https://t.me/userinfobot) to get your telegram ID.
 6. Edit `config.php` file
-//config.png
+![config](https://user-images.githubusercontent.com/30490118/59158303-78bb9980-8acd-11e9-8283-90e704ee046f.png)
     * Complete Database Section with your information
     * Compelete API Section with `Step 3 &4` Information (API Key).
     * Complete Admin Section with `Step 5` Information (Telegram ID).
