@@ -59,5 +59,7 @@ Here is a brief introduction to bot's features.
 Pull requests are welcome. You'll probably find lots of improvements to be made.
 
 Open issues for feedback, requesting features, reporting bugs or discussing ideas.
+
+Special thanks to [Thedevs-network](https://thedevs.network/) and [Pouria Ezzati](https://github.com/poeti8).
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
