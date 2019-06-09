@@ -53,6 +53,7 @@ Here is a brief introduction to bot's features.
 ## ToDo List
 - [ ] Add User Keyboard to change language & change user table in database
 - [ ] Add User change language system
+- [ ] Add User Link Status 
 - [ ] And more... 
 
 ## Contributing
